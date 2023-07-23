@@ -6,7 +6,7 @@ Our app uses authentication, many parts of the app are accessible without authen
 
 We do have a login page, however, due to the nature of how firebase authentication works it requires a SHA key, for most apps when you release them you get a SHA key for the release version. However, since our app is not in release and just in development it uses developer SHA keys, these are unique to each development environment. Because of this in order to use authentication inside of our app, we must add the SHA key of people who want to authenticate while using the development version of the app.
 
-Please Send Chase, preferably on slakc, your SHA-1 key, and he will add it to the project so that you can authenticate on the app.
+Please Send Patrick, preferably on slakc, your SHA-1 key, and he will add it to the project so that you can authenticate on the app.
 
 
 
@@ -20,7 +20,7 @@ On the popup unselect "do not build gradle task list during gradle sync". Then c
 
 Once gradle has been synced, you should have a list of tasks. If you return to the gradle tab, expand the following selections: app -> Tasks -> Android. After expanding these you should be able to see "signingReport". Double click this to start the task.
 
-The Task will run in a terminal and if you scroll through the output there will be a line dedicated to the SHA-1 key. Please paste this and send it to Chase.
+The Task will run in a terminal and if you scroll through the output there will be a line dedicated to the SHA-1 key. Please paste this and send it to Patrick.
 
 
 Before you do anything else there is something you need to undo, currently the run button is set to just run the  signingReport task, to return it to its standard in which it runs the app please do the following:
@@ -28,6 +28,6 @@ Before you do anything else there is something you need to undo, currently the r
 At the top of the screen next to the play/run button there should be two dropdowns, one to select an emulator and the other to select the task. Select the task dropdown which is probably displaying signingReport as the selected task. Then choose app from the list of options. Now you can run the app again as normal.
 
 
-After completing this and when Chase has successfully added you SHA-1 key to the firebase project, you will be able to use the app to its full extent and you can now sign into the app through the login page.
+After completing this and when Patrick has successfully added you SHA-1 key to the firebase project, you will be able to use the app to its full extent and you can now sign into the app through the login page.
 
-If you have any difficulties or questions please feel free to reach out to Chase.
+If you have any difficulties or questions please feel free to reach out to Patrick.

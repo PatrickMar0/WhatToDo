@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/content">
+
+    <fragment
+        android:id="@+id/content"
+        android:name="com.example.whattodo.Content"
+        android:label="Home"
+        tools:layout="@layout/fragment_content"/>
+    <fragment
+        android:id="@+id/event"
+        android:name="com.example.whattodo.Event"
+        android:label="Event"
+        tools:layout="@layout/fragment_event">
+        <argument
+            android:name="id"
+            app:argType="string"/>
+    </fragment>
+    <fragment
+        android:id="@+id/favorites"
+        android:name="com.example.whattodo.Favorites"
+        android:label="Favorites"
+        tools:layout="@layout/fragment_favorites"/>
+    <fragment
+        android:id="@+id/settings"
+        android:name="com.example.whattodo.Settings"
+        android:label="Settings"
+        tools:layout="@layout/fragment_settings" />
+    <fragment
+        android:id="@+id/createEvent"
+        android:name="com.example.whattodo.CreateEvent"
+        android:label="Add Event"
+        tools:layout="@layout/fragment_create_event"/>
+    <fragment
+        android:id="@+id/loginFragment"
+        android:name="com.example.whattodo.LoginActivity"
+        android:label="Login"
+        tools:layout="@layout/fragment_login" />
+    <action
+        android:id="@+id/action_global_loginFragment"
+        app:destination="@id/loginFragment"/>
+    <action
+        android:id="@+id/action_global_event"
+        app:destination="@id/event" >
+    </action>
+    <action
+        android:id="@+id/action_global_settings"
+        app:destination="@id/settings" />
+    <action
+        android:id="@+id/action_global_content"
+        app:destination="@id/content" /><action android:id="@+id/action_global_createEvent" app:destination="@id/createEvent"/>
+</navigation>

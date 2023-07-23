@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/chees/Desktop/School/FSC/WhatToDo/csc3400sp22team3/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/chees/Desktop/School/FSC/WhatToDo/csc3400sp22team3/app/src/main/res/layout/activity_setting_menu.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/chees/Desktop/School/FSC/WhatToDo/csc3400sp22team3/app/src/main/res/layout/add_review.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/chees/Desktop/School/FSC/WhatToDo/csc3400sp22team3/app/src/main/res/layout/event_item.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/chees/Desktop/School/FSC/WhatToDo/csc3400sp22team3/app/src/main/res/layout/fragment_content.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/chees/Desktop/School/FSC/WhatToDo/csc3400sp22team3/app/src/main/res/layout/fragment_create_event.xml" value="0.33" />
+        <entry key="..\:/Users/chees/Desktop/School/FSC/WhatToDo/csc3400sp22team3/app/src/main/res/layout/fragment_event.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/chees/Desktop/School/FSC/WhatToDo/csc3400sp22team3/app/src/main/res/layout/fragment_favorites.xml" value="0.121875" />
+        <entry key="..\:/Users/chees/Desktop/School/FSC/WhatToDo/csc3400sp22team3/app/src/main/res/layout/fragment_login.xml" value="0.25" />
+        <entry key="..\:/Users/chees/Desktop/School/FSC/WhatToDo/csc3400sp22team3/app/src/main/res/layout/fragment_settings.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/chees/Desktop/School/FSC/WhatToDo/csc3400sp22team3/app/src/main/res/layout/review_item.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/chees/Desktop/School/FSC/WhatToDo/csc3400sp22team3/app/src/main/res/menu/bottom_nav.xml" value="0.14722222222222223" />
+        <entry key="..\:/Users/chees/Desktop/School/FSC/WhatToDo/csc3400sp22team3/app/src/main/res/menu/top_nav.xml" value="0.14722222222222223" />
+        <entry key="..\:/Users/lilpa/Documents/GitHub/csc3400sp22team3/app/src/main/res/layout/activity_main.xml" value="0.22327898550724637" />
+        <entry key="..\:/Users/lilpa/Documents/GitHub/csc3400sp22team3/app/src/main/res/layout/activity_setting_menu.xml" value="0.264" />
+        <entry key="..\:/Users/lilpa/Documents/GitHub/csc3400sp22team3/app/src/main/res/layout/activity_sign_in.xml" value="0.12917933130699089" />
+        <entry key="..\:/Users/lilpa/Documents/GitHub/csc3400sp22team3/app/src/main/res/layout/event_item.xml" value="0.22327898550724637" />
+        <entry key="..\:/Users/lilpa/Documents/GitHub/csc3400sp22team3/app/src/main/res/layout/fragment_create_event.xml" value="0.2" />
+        <entry key="..\:/Users/lilpa/Documents/GitHub/csc3400sp22team3/app/src/main/res/layout/fragment_event.xml" value="0.16837431693989072" />
+        <entry key="..\:/Users/lilpa/Documents/GitHub/csc3400sp22team3/app/src/main/res/layout/fragment_settings.xml" value="0.22327898550724637" />
+        <entry key="..\:/Users/willi/Downloads/Software Engineering/WhatToDo-App/csc3400sp22team3/app/src/main/res/drawable/home.xml" value="0.1765" />
+        <entry key="..\:/Users/willi/Downloads/Software Engineering/WhatToDo-App/csc3400sp22team3/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/willi/Downloads/Software Engineering/WhatToDo-App/csc3400sp22team3/app/src/main/res/layout/activity_setting_menu.xml" value="0.15806159420289856" />
+        <entry key="..\:/Users/willi/Downloads/Software Engineering/WhatToDo-App/csc3400sp22team3/app/src/main/res/layout/event_item.xml" value="0.16485507246376813" />
+        <entry key="..\:/Users/willi/Downloads/Software Engineering/WhatToDo-App/csc3400sp22team3/app/src/main/res/layout/fragment_content.xml" value="0.22" />
+        <entry key="..\:/Users/willi/Downloads/Software Engineering/WhatToDo-App/csc3400sp22team3/app/src/main/res/layout/fragment_create_event.xml" value="0.10916919959473151" />
+        <entry key="..\:/Users/willi/Downloads/Software Engineering/WhatToDo-App/csc3400sp22team3/app/src/main/res/layout/fragment_event.xml" value="0.25" />
+        <entry key="..\:/Users/willi/Downloads/Software Engineering/WhatToDo-App/csc3400sp22team3/app/src/main/res/layout/fragment_favorites.xml" value="0.10916919959473151" />
+        <entry key="..\:/Users/willi/Downloads/Software Engineering/WhatToDo-App/csc3400sp22team3/app/src/main/res/layout/fragment_login.xml" value="0.25" />
+        <entry key="..\:/Users/willi/Downloads/Software Engineering/WhatToDo-App/csc3400sp22team3/app/src/main/res/layout/fragment_settings.xml" value="0.16485507246376813" />
+        <entry key="..\:/Users/willi/Downloads/Software Engineering/WhatToDo-App/csc3400sp22team3/app/src/main/res/layout/review_item.xml" value="0.15806159420289856" />
+        <entry key="..\:/Users/willi/Downloads/Software Engineering/WhatToDo-App/csc3400sp22team3/app/src/main/res/layout/top_nav.xml" value="0.10916919959473151" />
+        <entry key="..\:/Users/willi/Downloads/Software Engineering/WhatToDo-App/csc3400sp22team3/app/src/main/res/menu/bottom_nav.xml" value="0.1" />
+        <entry key="..\:/Users/willi/Downloads/Software Engineering/WhatToDo-App/csc3400sp22team3/app/src/main/res/menu/top_nav.xml" value="0.22" />
+        <entry key="..\:/Users/willi/Downloads/Software Engineering/WhatToDo-App/csc3400sp22team3/app/src/main/res/xml/root_preferences.xml" value="0.15806159420289856" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.333786231884058" />
+        <entry key="app/src/main/res/layout/fragment_content.xml" value="0.333786231884058" />
+        <entry key="app/src/main/res/layout/fragment_login.xml" value="0.333786231884058" />
+        <entry key="app/src/main/res/layout/fragment_settings.xml" value="0.333786231884058" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

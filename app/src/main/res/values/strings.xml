@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">WhatToDo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="content_screen_text">Content Screen</string>
+    <string name="creat_event_screen_text">Creat Event Screen</string>
+    <string name="create_event_screen">Create Event Screen</string>
+    <string name="favorites_text">Favorites</string>
+
+    <!-- Temp Strings for List of Cards   -->
+    <string name="event1">Put-Put</string>
+    <string name="event2">Bowling</string>
+    <string name="event3">Frisbee</string>
+    <string name="event4">Top-Golf</string>
+    <string name="event5">Sky-Diving</string>
+    <string name="event6">Drag Racing</string>
+    <string name="event7">Bar-Hopping</string>
+    <string name="event8">Brewlands</string>
+    <string name="event9">Swan Brewery</string>
+    <string name="event10">Axecalibur</string>
+    <string name="event_screen">Event Screen</string>
+    <string name="image_of_the_event">Image of the event</string>
+
+    <!--  Necessary for Authentication  -->
+<!--    <string name="web_client_id">965196178303-ot0q6jhf7oi798s6m3ng63dbc0avpc1s.apps.googleusercontent.com</string>-->
+    <!-- <string name="web_client_id">965196178303-j9drqrefqhj8fcv9abta1dj43s0jvrt7.apps.googleusercontent.com</string> -->
+
+</resources>

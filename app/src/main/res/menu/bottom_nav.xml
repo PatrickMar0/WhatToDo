@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/createEvent"
+        android:icon="@drawable/add_event_dark"
+        android:title="Add Event" />
+    <item
+        android:id="@+id/content"
+        android:icon="@drawable/home_dark"
+        android:title="Home" />
+    <item
+        android:id="@+id/favorites"
+        android:icon="@drawable/favorites_dark"
+        android:title="Favorites" />
+</menu>
